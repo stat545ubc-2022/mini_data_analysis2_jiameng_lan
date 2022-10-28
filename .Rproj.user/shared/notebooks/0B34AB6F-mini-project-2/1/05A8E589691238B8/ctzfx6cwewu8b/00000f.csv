@@ -1,0 +1,6 @@
+"0","monthdis2 <- overmonth %>% mutate(montha = fct_reorder(montha, month)) %>%"
+"0","  mutate(montha = fct_lump_min(montha, min = 10, other_level = ""other"")) %>%"
+"0","  ggplot() +"
+"0","  geom_col(mapping = aes(year, flow)) +"
+"0","  facet_wrap(vars(montha))"
+"0","print(monthdis2)"

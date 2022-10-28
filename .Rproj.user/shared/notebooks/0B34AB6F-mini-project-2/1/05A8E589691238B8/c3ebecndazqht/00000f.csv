@@ -1,0 +1,2 @@
+"0","modelvalue <- broom::tidy(predictmodel)"
+"0","print(modelvalue)"
