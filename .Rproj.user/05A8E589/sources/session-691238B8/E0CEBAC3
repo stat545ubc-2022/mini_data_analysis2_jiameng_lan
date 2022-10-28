@@ -3,24 +3,24 @@
     "path": "~/Desktop/stat545/mini_data_analysis2_jiameng_lan/milestone2/mini-project-2.Rmd",
     "project_path": "milestone2/mini-project-2.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1632706262",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1666986111333.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "288,0",
-        "scrollLine": "283"
+        "cursorPosition": "2,23",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1666986101,
+    "lastKnownWriteTime": 1666999319,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1666998631556,
+    "last_content_update": 1666999319763,
     "read_only": false,
     "read_only_alternatives": []
 }
