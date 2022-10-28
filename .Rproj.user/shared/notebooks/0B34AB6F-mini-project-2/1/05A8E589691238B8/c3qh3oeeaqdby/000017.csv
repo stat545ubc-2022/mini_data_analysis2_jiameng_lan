@@ -1,5 +1,0 @@
-"0","modelrds <- readRDS(""task3_milestone2.RDS"")
-"
-"2","Warning: cannot open compressed file 'task3_milestone2.RDS', probable reason 'No such file or directory'"
-"2","Error in gzfile(file, ""rb"") : cannot open the connection
-"

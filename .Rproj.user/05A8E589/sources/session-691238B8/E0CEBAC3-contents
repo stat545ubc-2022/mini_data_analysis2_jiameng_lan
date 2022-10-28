@@ -284,10 +284,8 @@ Write your model object from Task 3 to an R binary file (an RDS), and load it ag
 <!-------------------------- Start your work below ---------------------------->
 ```{r}
 saveRDS(predictmodel, here::here("output", "task3_milestone2.RDS"))
-dir(here::here("output"))
-modelrds <- readRDS("task3_milestone2.RDS")
-head(modelrds)
-
+modelrds <- readRDS(here::here("output","task3_milestone2.RDS"))
+print(modelrds)
 ```
 
 <!----------------------------------------------------------------------------->
